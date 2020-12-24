@@ -25,7 +25,7 @@ public class LoginStepDefinitions {
 
     @Then("user is supposed to see the Welcome Message")
     public void user_suppose_to_see_welcome_message() {
-        System.out.println("user supposed to see Welcome message");
+        System.out.println("user is supposed to see The Welcome message");
        // throw new io.cucumber.java.PendingException();
     }
 
